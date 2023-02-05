@@ -17,5 +17,11 @@ class ViewController: UIViewController {
     }
 
 
+    struct Calendar{
+        
+        init(){
+            print("hello")
+        }
+    }
 }
 
